@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+registroacademico.catolica.edu.sv	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	1yj2mf5f3k4ohnbljcq3n41k
+cdn.clustrmaps.com	TRUE	/	FALSE	1999999999	__cflb	02DiuFZreSpdJZK6xQkVWKz7J4ynVBDoAHMzgXc5JNPL8
+cdn.clustrmaps.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+clustrmaps.com	TRUE	/	FALSE	1999999999	PHPSESSID	71qagat1969efovul4h51ddn0k
+clustrmaps.com	TRUE	/	FALSE	1999999999	__cflb	02DiuHcKAbFByoMNpCmq9XYDUEEr4TV2JayUeC2rttswz
+clustrmaps.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
